@@ -9,10 +9,10 @@
     "dependencies": {
         "body-parser": "^1.18.3",
         "express": "^4.16.4",
-         "yarn":"^1.22.17"
+        "mysql": "^2.18.1",
+        "yarn": "^1.22.17"
     },
     "devDependencies": {
         "concurrently": "^6.4.0"
     }
 }
-
